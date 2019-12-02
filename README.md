@@ -1,6 +1,7 @@
 # Chingu Voyage Pre-Work Solo Project (Tier 3): *eCalendar*
 
 ![demo of tier 3 site](./assets/tier3_functionality.gif) 
+---
 ![demo of tier 3 site](./assets/add_appointment.gif) 
 
 ## Overview 
