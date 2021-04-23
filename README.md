@@ -73,7 +73,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 *Manipulation:*
 
 - [ ] If there are one or more appointments for a day in the displayed month, display a small dot under the day as a visual representation
-- [ ] When a user clicks on a day in the currently displayed month, the lables and appointments should update in the appointment panel
+- [ ] When a user clicks on a day in the currently displayed month, the labels and appointments should update in the appointment panel
 - [ ] When a user inputs a new appointment, be sure that the appointment dot under the correct day is shown immediately
 - [ ] Implement full CRUD (creat, review, update, delete) lifecycle for appointments (*hint: use the modal for creating/update/delete and the panel for review*);
 
